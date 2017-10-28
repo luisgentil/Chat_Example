@@ -13,4 +13,6 @@
     <preference name="KeyboardShrinksView" value="true" />
     <preference name="DisallowOverscroll" value="true" />
     <access origin="*" />
+    <plugin name="cordova-plugin-whitelist" version="1"/>
+    <plugin name="Bluetooth" value="org.apache.cordova.bluetooth.BluetoothPlugin" />
 </widget>
