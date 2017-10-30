@@ -14,5 +14,5 @@
     <preference name="DisallowOverscroll" value="true" />
     <access origin="*" />
     <plugin name="cordova-plugin-whitelist" version="1"/>
-    <plugin name="Bluetooth Serial" value="cordova-plugin-bluetooth-serial" />
+    <plugin name="cordova-plugin-bluetooth-serial" value="cordova-plugin-bluetooth-serial" />
 </widget>
